@@ -12,18 +12,20 @@
 public class IbrahimShahidComputeThis
 {
     public static void main (String[]args){
-        int x = 3;
+        //declare all variables, x, y, z and w
+        int x = 3; 
         int y = -5;
         int z = 0;
         double w = 17.5;
-        z = Math.abs(y);
+        //print all variables
         System.out.println("w = " + w + ", x = " + x + ", y = " + y + ", z = " + z);
-        System.out.println("The absolute value of y is " + z);
-        double sqrtW = Math.sqrt(w);
-        System.out.println("The square root of w is " + sqrtW);
-        double xPowerZ = Math.pow(x, z);
-        System.out.println("x raised to the power of z is " + xPowerZ);
-        int MaxY = Math.max(x,y);
+        z = Math.abs(y); // find absolute value of y and assign value to z because abs y = z
+        System.out.println("The absolute value of y is z and has a value of " + z);//print value of z
+        double sqrtW = Math.sqrt(w); //find the square root of w
+        System.out.println("The square root of w is " + sqrtW); //print value of sqrtw
+        double xPowerZ = Math.pow(x, z); // find x raised to the power of z and assign value to double xPowerZ
+        System.out.println("x raised to the power of z is " + xPowerZ); //print value of xPowerZ
+        int MaxY = Math.max(x,y); //
         System.out.println(MaxY + " is the max of x and y");
         int minXY = Math.min(x, y);
         System.out.println(minXY + " is the min of x and y");
