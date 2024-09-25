@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=IbrahimShahidHellowWorld
+comment0.text=\r\n\ Ibrahim\ Shahid\r\n\ Date\:\ 9/17/2024\r\n\ North\ Carolina\ Virtual\ Public\ Schools\r\n\ Description\:\ Hello\ World\ using\ escape\ characters\r\n\ Difficulties\:\ \ No\ major\ hurdles\ faced\ towards\ completing\ the\ task\r\n\ You\ can\ use\ escape\ characters\ to\ make\ indents\ in\ outputs\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2
