@@ -1,0 +1,4 @@
+2343, Lead machinist, $29.75, 64
+5678, Software engineer, $42.00, 40
+9012, Data analyst, $35.50, 45
+1234, Project manager, $50.25, 38
